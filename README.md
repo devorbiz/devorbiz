@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devorbiz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning an Open API
-- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me dev.orbiz@gmail.com
 
 <!---
